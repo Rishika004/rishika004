@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on Machine learning and agentic ai projects.<br>
+I am an Electrical and Computer Engineering student at Thapar University with a strong focus on Machine Learning and Generative AI. Currently serving as a Machine Learning Intern at Hirely , I specialize in building intelligent systems.<br>
 
 
 ## 🌐 Socials:
