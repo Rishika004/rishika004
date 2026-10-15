@@ -1,18 +1,209 @@
-# 💫 About Me:
-I am an Electrical and Computer Engineering student at Thapar University with a strong focus on Machine Learning and Generative AI. Currently serving as a Machine Learning Intern at Hirely , I specialize in building intelligent systems.<br>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="I build systems that learn. Every dataset is a story, every model a question answered." />
+</p>
 
+<h3 align="center"><i>Welcome to my corner of the internet — where ideas get trained, tested and shipped. ✨</i></h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishika singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishikathakur607@gmail.com) 
+<p align="center">
+  <img src="assets/terminal.svg" width="780" alt="Terminal: whoami → Rishika Singh, FDE Intern @ Pineyard AI, ECE @ Thapar University" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishika004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishika004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=rishika004&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔮 `whoami`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+My name is **Rishika**, from the Sanskrit *Rishi* — a seer, someone who looks for the pattern underneath things.
+That is pretty much how I approach technology: pull it apart, understand it from the core, and rebuild it myself.
+
+I'm an **Electrical & Computer Engineering** student at **Thapar University** and currently a **Forward Deployed Engineering Intern at Pineyard AI**, shipping voice-calling agents and dashboards for enterprise clients. My work sits at the intersection of **Machine Learning** and **Generative AI** — from computer vision models to LLM-powered agents and production voice systems.
+
+<br/>
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Pineyard AI</b><br/>
+      <sub>Forward Deployed Engineering Intern</sub><br/>
+      <sub>🗓️ Jun 2026 – Present · Remote</sub>
+    </td>
+    <td width="70%" valign="top">
+      Delivering client-specific agent logic and dashboards for enterprise clients including <b>RuPay</b> and <b>Testbook</b>, turning stakeholder calls into production configurations. Designed event-driven workflows that pair custom voice-calling agents with automated email, handling <b>100,000+ calls</b>, and integrated client websites and third-party REST APIs end to end.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Deccan AI Labs</b><br/>
+      <sub>AI &amp; Prompt Engineering Intern</sub><br/>
+      <sub>🗓️ Feb 2026 – Mar 2026 · Remote</sub>
+    </td>
+    <td width="70%" valign="top">
+      Built a systematic prompt re-engineering framework for <b>text-to-video generation</b> models, iterating on lighting, camera motion, temporal flow and subject behaviour to improve visual coherence and scene consistency.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Hirely</b><br/>
+      <sub>Machine Learning Intern</sub><br/>
+      <sub>🗓️ Dec 2025 – Jan 2026 · Remote</sub>
+    </td>
+    <td width="70%" valign="top">
+      Designed a two-tier job–candidate matching pipeline: <b>BERT embeddings</b> with cosine similarity for fast semantic retrieval, then <b>Mistral LLM re-ranking</b> for context-aware ordering. Added TF-IDF and Word2Vec skill extraction from raw resume text to sharpen recruiter search.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Thapar University</b><br/>
+      <sub>Student Research Intern</sub><br/>
+      <sub>🗓️ Jun 2024 – Aug 2024 · Patiala</sub>
+    </td>
+    <td width="70%" valign="top">
+      Implemented a <b>human activity recognition</b> pipeline combining <b>ViTPose++</b> pose estimation with a multi-layer LSTM for temporal modelling of spatiotemporal motion data.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ⚡ Tech Stack
+
+<table align="center">
+  <tr>
+    <th align="left">Languages</th>
+    <td><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <th align="left">ML &amp; AI</th>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,matlab&theme=dark" alt="ML and AI" /></td>
+  </tr>
+  <tr>
+    <th align="left">Backend &amp; Data</th>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,postgres,supabase,redis,mongodb&theme=dark" alt="Backend and Data" /></td>
+  </tr>
+  <tr>
+    <th align="left">Frontend</th>
+    <td><img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,figma&theme=dark" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <th align="left">Cloud &amp; Tools</th>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,postman,linux&theme=dark" alt="Cloud and Tools" /></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Also: Hugging Face · LangChain · LangGraph · Gemini API · Whisper · BERT · RAG · pgvector · BullMQ · Keras · NumPy · Pandas · MLflow · Apache Spark · Airflow · Mem0 · Apify</sub></p>
+
+<br/>
+
+## 🎯 Fun facts about me
+
+- 🧠 I'd rather spend a weekend re-implementing a paper from scratch than reading three more about it.
+- 📞 I like building things that *talk back* — voice agents, AI receptionists and call assistants are my favourite playground.
+- 🎨 Clean interfaces matter to me as much as clean code — I sketch out the UI before the model.
+- ☕ Debugging ritual: coffee, one terminal, and the firm belief that it's always the data.
+
+<br/>
+
+## 🛠️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>CallFlow — AI Outreach Platform</b><br/>
+      Multi-tenant REST API and 20+ BullMQ workers (Node.js, TypeScript, PostgreSQL, Redis) powering AI voice, WhatsApp and email outreach. Campaign dispatch engine with per-workspace pacing, retry ladders and idempotent telephony webhooks; LLM extraction of call intelligence and per-second credit billing.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/Lingo"><b>Lingo — Agentic LinkedIn Post Generator</b></a><br/>
+      5-agent LangGraph pipeline (Intake, Enrichment, RAG, Writer, Critic) that writes LinkedIn posts from GitHub repos, images or raw text. Matches your writing style by embedding past posts in Supabase pgvector and retrieving top examples at generation time.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/self-healing-agnet"><b>Self-Healing Agent</b></a><br/>
+      An autonomous agent that monitors its own pipeline, detects failures and recovers without human intervention.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/ai-receptionist"><b>AI Receptionist</b></a><br/>
+      A conversational receptionist that answers calls, understands intent and handles bookings end to end.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/caller-karta"><b>Caller Karta</b></a><br/>
+      AI-driven calling assistant that automates outbound calls and conversations in real time.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/Voca-review"><b>Voca Review</b></a><br/>
+      Voice-first review assistant that turns spoken feedback into structured, searchable insights.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/fruit-freshness-detection-system"><b>Fruit Freshness Detection</b></a><br/>
+      Real-time fruit detection with MobileNet and freshness classification using CNN and VGG-16. 92% accuracy, with a freshness index built from edge width and dark-spot analysis.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/Machine-Learning-Based-Sheduler-Predictor"><b>ML Scheduler Predictor</b></a><br/>
+      Random Forest model that picks the optimal CPU scheduling algorithm from arrival time, burst time and priority. 92.6% accuracy, F1 0.92, with a generated Gantt chart.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/Humar-pose-estimation-deep--learning"><b>Human Pose Estimation</b></a><br/>
+      Deep learning pipeline for detecting and tracking human body keypoints from images and video.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Rishika004/FACE-DETECTION-MODEL"><b>Face Detection</b></a><br/>
+      Real-time face detection in images and video streams using Haar cascades with OpenCV.
+    </td>
+  </tr>
+</table>
+
+<p align="right"><sub><a href="https://github.com/Rishika004?tab=repositories">see all repositories →</a></sub></p>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🥇 **Winner, Hack Eclipse** — ACM Student Chapter, TIET, 2024
+- 🚀 **Semi-finalist, Flipkart Grid AI Challenge 2025** — top 80 of 2,000+ teams
+- 🛰️ **ISRO Robotics Challenge 2025** — top 178 teams in India, Round 2
+
+<br/>
+
+## 📬 How to reach me
+
+<p>
+  <a href="https://linkedin.com/in/rishikasingh060704"><img src="https://img.shields.io/badge/LinkedIn-Rishika%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:rsingh5be23@gmail.com"><img src="https://img.shields.io/badge/Email-rsingh5be23%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rishika004&style=flat-square&color=58A6FF&label=profile+views" alt="Profile views" />
+</p>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishika004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishika004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rishika004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishika004/Rishika004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishika004/Rishika004/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Rishika004/Rishika004/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Thanks for stopping by — <i>every model starts with a single question.</i></sub>
+</p>
